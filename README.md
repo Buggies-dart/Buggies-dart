@@ -1,6 +1,6 @@
 # Buggies - Flutter App Portfolio
 
-Welcome to my portfolio repository! I am Buggies, a passionate Flutter and Dart app developer who specializes in building innovative and creative mobile applications. This repository showcases my work and projects, including eCommerce apps, media players, and other fun ideas that I am building to demonstrate my skills to potential employers.
+Hey! I am Buggies, a passionate Flutter and Dart app developer who specializes in building innovative and creative mobile applications. This repository showcases my work and projects, including eCommerce apps, media players, and other fun ideas that I intend to bring to life.
 
 ## About Me
 

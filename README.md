@@ -29,7 +29,9 @@ A food delivery app that allows users to order from local restaurants. The app f
 - Restaurant menu listing
 - Wallet
 - Order History and Checkout Page
-- Firebase Firestore integration
+- Firebase Firestore Integration
+- Stripe Payment Gateway
+- MapBox API for user address
 ![Description](ezgif.com-video-to-gif-converter.gif)
 
 Watch Demo Video: https://res.cloudinary.com/dnkcbhh4n/video/upload/v1742956450/0324_xik4lk.mp4

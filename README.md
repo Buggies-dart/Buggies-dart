@@ -31,6 +31,8 @@ A food delivery app that allows users to order from local restaurants. The app f
 - Order History and Checkout Page
 - Firebase Firestore integration
 
+![Description](ezgif.com-video-to-gif-converter.gif)
+
 ### 3. **Music Player App**  
 A music player app showcasing music where users can browse playlists based on their mood, listen to music, and create their own playlists. This app demonstrates my skills in audio streaming, media player integration, and UI design.  
 **Key Features**:

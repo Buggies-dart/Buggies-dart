@@ -1,10 +1,10 @@
 # Labisi Buggies
 
-Hey! I am Buggies, a passionate Flutter and Dart app developer who specializes in building innovative and creative mobile applications. This repository showcases my work and projects, including eCommerce apps, media players, and other fun ideas that I intend to bring to life.
+Hey! I am Buggies, a passionate Flutter and Dart developer specializing in building innovative and creative mobile applications. This repository showcases my work and projects, including e-commerce apps, media players, and other fun ideas that I intend to bring to life.
 
 ## About Me
 
-I am a self-driven and highly motivated developer who focuses on creating intuitive and engaging mobile applications. Throughout my journey as a Flutter and Dart developer, I have built various apps for personal projects and portfolios. My goal is to continuously improve my skills and create apps that are both useful and aesthetically pleasing.
+I am a self-driven and highly motivated developer who focuses on creating intuitive and engaging mobile applications. As a Flutter and Dart developer, I have built various apps for personal projects and portfolios. My goal is to continuously improve my skills and create apps that are both useful and aesthetically pleasing.
 
 ### Key Skills:
 - **Flutter and Dart**: Building beautiful, performant cross-platform mobile applications.

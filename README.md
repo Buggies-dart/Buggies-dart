@@ -7,12 +7,7 @@ Hey! I am Buggies, a passionate Flutter and Dart developer specializing in build
 I am a self-driven and highly motivated developer who focuses on creating intuitive and engaging mobile applications. As a Flutter and Dart developer, I have built various apps for personal projects and portfolios. My goal is to continuously improve my skills and create apps that are both useful and aesthetically pleasing.
 
 ### Key Skills:
-- **Flutter and Dart**: Building beautiful, performant cross-platform mobile applications.
-- **Firebase**: Implementing authentication, Firestore, and storage solutions.
-- **State Management**: Experience with GetX, Riverpod, and other Flutter state management solutions.
-- **UI/UX Design**: Crafting clean and user-friendly interfaces.
-- **APIs and Integration**: Working with third-party APIs and seamless integration for enhanced app functionality.
-- **Version Control (Git)**: Proficient with Git for managing source code and collaborating on projects.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original-wordmark.svg" width="40" height="40"/> 
 
 ## Projects
 

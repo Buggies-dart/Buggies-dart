@@ -34,7 +34,7 @@ A food delivery app that allows users to order from local restaurants. The app f
 - MapBox API for user address
 ![Description](ezgif.com-video-to-gif-converter.gif)
 
-Watch Demo Video: https://res.cloudinary.com/dnkcbhh4n/video/upload/v1742956450/0324_xik4lk.mp4
+Watch Full Demo Video: https://res.cloudinary.com/dnkcbhh4n/video/upload/v1742956450/0324_xik4lk.mp4
 
 ### 3. **Music Player App**  
 A music player app showcasing music where users can browse playlists based on their mood, listen to music, and create their own playlists. This app demonstrates my skills in audio streaming, media player integration, and UI design.  
@@ -43,14 +43,17 @@ A music player app showcasing music where users can browse playlists based on th
 - Browse playlists
 - Play songs directly from URLs (hosted on GitHub)
 - Shuffle and organize music
+![Description](https://s1.ezgif.com/tmp/ezgif-1e82bb83732a85.gif)
+
+Watch Full Demo Video: https://res.cloudinary.com/dnkcbhh4n/video/upload/v1743220026/0328_fabbln.mp4
 
 ## My Development Process
 
 I focus on clean, maintainable code and user-centric design. Here’s how I approach app development:
 
-1. **Planning**: I start by defining the app's core functionality and features, making sure the user experience is at the forefront.
+1. **Planning**: I start by defining the app's core functionality and features, keeping the user experience at the forefront.
 2. **UI/UX Design**: I create prototypes and mockups to design the app's flow and ensure a seamless experience.
-3. **Development**: I build the app using **Flutter** and **Dart**, integrating third-party packages or APIs where needed (such as Firebase, and other services).
+3. **Development**: I build the app using Flutter and Dart, integrating third-party packages or APIs (such as Firebase and other services) where needed.
 4. **Testing & Debugging**: I thoroughly test my apps to identify and fix any bugs or performance issues.
 5. **Deployment**: I deploy the apps for use on both Android and iOS platforms.
 

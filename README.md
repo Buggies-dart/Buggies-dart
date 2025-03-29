@@ -7,7 +7,9 @@ Hey! I am Buggies, a passionate Flutter and Dart developer specializing in build
 I am a self-driven and highly motivated developer who focuses on creating intuitive and engaging mobile applications. As a Flutter and Dart developer, I have built various apps for personal projects and portfolios. My goal is to continuously improve my skills and create apps that are both useful and aesthetically pleasing.
 
 ### Key Skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="100/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+          
 ## Projects
 
 ### 1. **E-commerce Sneaker App**  

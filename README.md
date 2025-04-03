@@ -9,7 +9,8 @@ I am a self-driven and highly motivated developer who focuses on creating intuit
 ### Key Skills:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="50" height="50"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50"/> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
           
           
           
@@ -23,6 +24,7 @@ An e-commerce app built with Flutter where users can browse and purchase sneaker
 - Firebase authentication (Google and phone number)
 ![Description](https://github.com/Buggies-dart/Buggies-dart/blob/main/sneakerstoregif.gif)
 
+Watch Full Demo Video: https://res.cloudinary.com/dnkcbhh4n/video/upload/v1743697570/0403_l5z7fy.mp4
 
 ### 2. **Food Delivery App**  
 A food delivery app that allows users to order from local restaurants. The app features a modern interface and integrates with Firebase for data storage and user management.  

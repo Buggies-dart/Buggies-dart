@@ -42,8 +42,7 @@ A music player app showcasing music where users can browse playlists based on th
 - Browse playlists
 - Play songs directly from URLs (hosted on GitHub)
 - Shuffle and organize music
-![Description](![image](https://github.com/user-attachments/assets/2a4594cd-606b-432f-808e-9de0bf90804d)
-)
+![Description](https://s6.ezgif.com/tmp/ezgif-64a4b535cafaa8.gif)
 
 Watch Full Demo Video: https://res.cloudinary.com/dnkcbhh4n/video/upload/v1743220026/0328_fabbln.mp4
 

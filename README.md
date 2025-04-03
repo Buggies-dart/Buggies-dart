@@ -21,6 +21,8 @@ An e-commerce app built with Flutter where users can browse and purchase sneaker
 - Product listing and filters
 - Add to-cart functionality
 - Firebase authentication (Google and phone number)
+![Description](https://github.com/Buggies-dart/Buggies-dart/blob/main/sneakerstoregif.gif)
+
 
 ### 2. **Food Delivery App**  
 A food delivery app that allows users to order from local restaurants. The app features a modern interface and integrates with Firebase for data storage and user management.  

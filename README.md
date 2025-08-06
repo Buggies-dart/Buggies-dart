@@ -1,4 +1,4 @@
-# Labisi Buggies
+# Jerry G
 
 A passionate Flutter and Dart developer specializing in building innovative and creative mobile applications. This repository showcases my work and projects, including e-commerce apps, media players, and other fun ideas that I intend to bring to life.
 

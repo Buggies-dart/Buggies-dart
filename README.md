@@ -61,13 +61,6 @@ I focus on clean, maintainable code and user-centric design. Here’s how I appr
 4. **Testing & Debugging**: I thoroughly test my apps to identify and fix any bugs or performance issues.
 5. **Deployment**: I deploy the apps for use on both Android and iOS platforms.
 
-## Contact Me
-
-Feel free to reach out if you want to collaborate or if you have any questions about my projects. You can connect with me on:
-
-- **LinkedIn**: https://www.linkedin.com/in/ola-julius-1aa254309/
-- **Email**: juliusola812@gmail.com
-
 ---
 
 ### Enjoy exploring my work, and thank you for visiting my portfolio! 😊

@@ -4,7 +4,7 @@ A passionate Flutter and Dart developer specializing in building innovative and 
 
 ## About Me
 
-I am a self-driven and highly motivated developer who focuses on creating intuitive and engaging mobile applications. As a Flutter and Dart developer, I have built various apps for personal projects and portfolios. My goal is to continuously improve my skills and create apps that are both useful and aesthetically pleasing.
+Self-driven, hand-vetted mobile developer who focuses on creating intuitive and engaging mobile applications. As a Flutter and Dart developer, I have built various apps for personal projects and portfolios. My goal is to continually improve my skills and create apps that are both useful and visually appealing.
 
 ### Key Skills:
 
@@ -55,7 +55,7 @@ Watch Full Demo Video: https://res.cloudinary.com/dnkcbhh4n/video/upload/v174322
 
 ## My Development Process
 
-I focus on clean, maintainable code and user-centric design. Here’s how I approach app development:
+I focus on writing clean, maintainable code and designing with a user-centric approach. Here’s how I approach app development:
 
 1. **Planning**: I start by defining the app's core functionality and features, keeping the user experience at the forefront.
 2. **UI/UX Design**: I create prototypes and mockups to design the app's flow and ensure a seamless experience.
@@ -65,4 +65,4 @@ I focus on clean, maintainable code and user-centric design. Here’s how I appr
 
 ---
 
-### Enjoy exploring my work, and thank you for visiting my portfolio! 😊
+### Enjoy exploring my work, and thank you for visiting my profile! 
